@@ -1,8 +1,5 @@
 <?php
 
-//this is a smmple change
-// yeah! this is another change from another pc! (web)
-// this is a change from vs code!
 use Illuminate\Support\Facades\Route;
 
 /*
